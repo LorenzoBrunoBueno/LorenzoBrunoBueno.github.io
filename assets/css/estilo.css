@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding: 0;
+    scroll-padding-top: 50px;
 }
 
 nav {
@@ -55,3 +56,17 @@ p{
 .conteudo{
     margin-top: 50px;
 }
+.ex{
+    border: 2px dotted #8961b5;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin-left: 670px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 250px;
+    width: 500px;
+}
+
