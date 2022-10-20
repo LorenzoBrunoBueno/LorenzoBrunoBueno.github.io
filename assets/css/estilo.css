@@ -62,7 +62,7 @@ p{
 h1{
     text-align: center;
 }
-img{
+.ex img{
     margin-left: 670px;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -70,3 +70,25 @@ img{
     width: 500px;
 }
 
+.projeto{
+    height: 200px;
+    width: 300px;
+    border-color: #9920a3 solid 5px;
+    margin: 10px;
+
+}
+
+#projetos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.projeto>img{
+    width:100%;
+}
+.labels span{
+    color:white !important;
+    background-color: rgb(194, 91, 1);
+    border-radius: 100px;
+    padding:2px 5px;
+}
