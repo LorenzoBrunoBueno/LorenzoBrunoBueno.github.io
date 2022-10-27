@@ -122,7 +122,7 @@ footer{
     background-color: black;
     
 }
-.texto h2, h1{
+.texto h2{
     font-size: 20px;
     text-align: left;
     margin-left: 900px;
@@ -133,3 +133,7 @@ footer img{
     width: 92px;
     margin-left: 800px;
 }
+.texto h1{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 850px;
